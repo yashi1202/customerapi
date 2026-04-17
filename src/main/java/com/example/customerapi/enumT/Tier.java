@@ -5,3 +5,4 @@ public enum Tier {
 	Silver, Gold, Platinum;
 
 }
+

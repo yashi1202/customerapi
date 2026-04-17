@@ -37,3 +37,4 @@ public class CustomerRequest {
 	    private OffsetDateTime lastPurchaseDate;
 
 }
+
